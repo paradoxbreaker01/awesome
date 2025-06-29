@@ -1,3 +1,5 @@
+wanna change the world? find ember 
+
 Living Document: Ember – June 2025
 
 
